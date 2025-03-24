@@ -1,5 +1,4 @@
-# SE_evaluation_rubric
-(Self-)evaluation form for software engineer applications
+# (Self-)evaluation form for software engineer applications
 
 # GitHub Evaluation Checklist
 
