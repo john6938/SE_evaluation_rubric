@@ -1,6 +1,6 @@
-# (Self-)evaluation form for software engineer applications
+# GitHub evaluation checklist for software engineer applications
 
-# GitHub Evaluation Checklist
+_Use this checklist to ensure that your public and professional GitHub account reflects the position that you are applying for. GitHub accounts that only show projects related to coursework are unlikely to impress recruits at top-tier companies. Craft your GitHub account to match the claims in your resume, and your online presence, e.g. your SNS accounts (if you have any). If you do not have a website, consider deploying one via GitHub to youraccount.github.io._
 
 ## 🔍 Repository Quality
 ☐ Clean repo structure  
