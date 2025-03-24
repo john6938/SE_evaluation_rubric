@@ -24,12 +24,12 @@ _Use this checklist to ensure that your public and professional GitHub account r
 ☐ Pull requests/issues demonstrate collaboration  
 
 ## 📦 Tools and DevOps Awareness
-☐ Use of CI/CD  (Continuous Integration/Continous Delivery)
-☐ Use of Docker/lint/tests  
+☐ Use of CI/CD  (Continuous Integration/Continous Delivery)<br>
+☐ Use of Docker/lint/tests  <br>
 ☐ Dependency management and environment files  
 
 ## ⚙️ Tech Stack & Languages
-☐ Strong grasp of relevant language, e.g. Python, Java, etc.
-☐ Framework use (e.g., Flask, React)  
+☐ Strong grasp of relevant language, e.g. Python, Java, etc.<br>
+☐ Framework use (e.g., Flask, React)  <br>
 ☐ Testing libraries (e.g., PyTest, JUnit)
 
